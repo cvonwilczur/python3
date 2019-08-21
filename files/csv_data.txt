@@ -1,0 +1,3 @@
+name,race,class
+gerold,human,fighter
+fingolfin,elf,ranger
